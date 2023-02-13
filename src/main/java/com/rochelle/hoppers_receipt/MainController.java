@@ -1,5 +1,5 @@
 package com.rochelle.hoppers_receipt;
-//? Pair Programming -> Dominic Bass
+//? Pair Programming -> Dominic Basa
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
