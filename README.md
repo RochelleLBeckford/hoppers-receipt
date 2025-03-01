@@ -1,1 +1,1 @@
-# HoppersReceipt
+# Hoppers Receipt
